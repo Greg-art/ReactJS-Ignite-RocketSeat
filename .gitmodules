@@ -1,3 +1,6 @@
 [submodule "Desafios/WorldTrip"]
 	path = Desafios/WorldTrip
 	url = https://github.com/Greg-art/WorldTrip
+[submodule "Desafios/Componentizando"]
+	path = Desafios/Componentizando
+	url = https://github.com/Greg-art/Componentizando
