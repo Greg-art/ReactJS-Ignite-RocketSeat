@@ -25,3 +25,6 @@
 [submodule "Desafios/SpaceTraveling"]
 	path = Desafios/SpaceTraveling
 	url = https://github.com/Greg-art/SpaceTraveling
+[submodule "Aulas/Dashgo"]
+	path = Aulas/Dashgo
+	url = https://github.com/Greg-art/Dashgo
