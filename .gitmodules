@@ -4,9 +4,6 @@
 [submodule "Desafios/Componentizando"]
 	path = Desafios/Componentizando
 	url = https://github.com/Greg-art/Componentizando
-[submodule "Desafios/dtmoney"]
-	path = Desafios/dtmoney
-	url = https://github.com/Greg-art/dtmoney
 [submodule "Desafios/hook-de-carrinho-de-compras"]
 	path = Desafios/hook-de-carrinho-de-compras
 	url = https://github.com/Greg-art/hook-de-carrinho-de-compras
