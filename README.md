@@ -1,7 +1,5 @@
 # ReactJS-Ignite-RocketSeat
-Projetos e desafio desenvolvidos durante o curso
-
-Os arquivos aqui são submodulos que levam para os repositórios dos projetos
+Projetos e desafio desenvolvidos durante o curso ReactJS da Rocket Seat
 
 ### Aulas
 São projetos desenvolvidos junto com o professor para aprender na prática os conceitos.
