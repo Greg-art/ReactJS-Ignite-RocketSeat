@@ -4,3 +4,24 @@
 [submodule "Desafios/Componentizando"]
 	path = Desafios/Componentizando
 	url = https://github.com/Greg-art/Componentizando
+[submodule "Desafios/dtmoney"]
+	path = Desafios/dtmoney
+	url = https://github.com/Greg-art/dtmoney
+[submodule "Desafios/hook-de-carrinho-de-compras"]
+	path = Desafios/hook-de-carrinho-de-compras
+	url = https://github.com/Greg-art/hook-de-carrinho-de-compras
+[submodule "Desafios/Refatoracao"]
+	path = Desafios/Refatoracao
+	url = https://github.com/Greg-art/Refatoracao
+[submodule "Desafios/Refactoring-classes-ts"]
+	path = Desafios/Refactoring-classes-ts
+	url = https://github.com/Greg-art/Refactoring-classes-ts
+[submodule "Aulas/Ignews"]
+	path = Aulas/Ignews
+	url = https://github.com/Greg-art/Ignews
+[submodule "Aulas/GithubExplorer"]
+	path = Aulas/GithubExplorer
+	url = https://github.com/Greg-art/GithubExplorer
+[submodule "Desafios/SpaceTraveling"]
+	path = Desafios/SpaceTraveling
+	url = https://github.com/Greg-art/SpaceTraveling
