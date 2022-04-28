@@ -1,5 +1,5 @@
 # ReactJS-Ignite-RocketSeat
-Projetos e desafio desenvolvidos durante o curso ReactJS da Rocket Seat
+9 Projetos e desafio desenvolvidos durante o curso ReactJS da Rocket Seat
 
 &nbsp;
 
