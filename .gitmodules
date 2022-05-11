@@ -25,8 +25,8 @@
 [submodule "Aulas/Dashgo"]
 	path = Aulas/Dashgo
 	url = https://github.com/Greg-art/Dashgo
-[submodule "aulas/NextAuth"]
-	path = aulas/NextAuth
+[submodule "Aulas/NextAuth"]
+	path = Aulas/NextAuth
 	url = https://github.com/Greg-art/NextAuth
 [submodule "Desafios/upload-de-imagens"]
 	path = Desafios/upload-de-imagens
